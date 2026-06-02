@@ -5,7 +5,6 @@ Welcome to my GitHub profile!
 ---
 
 ## 🚀 About Me
-- 💻 Focused on **Python** and **TypeScript**
 - ⚙️ Interested in **software development, automation, and practical solutions**
 - 🌱 Always learning and exploring new tools, frameworks, and ideas
 - 🤝 Open to collaboration, knowledge sharing, and exciting projects
