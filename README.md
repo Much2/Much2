@@ -1,29 +1,32 @@
-# 👋 Hi, I'm Michael (@Much2)
+# `> whoami`
 
-Welcome to my GitHub profile!  
+## Michael Eitzinger (@Much2)
 
----
-
-## 🚀 About Me
-- ⚙️ Interested in **software development, automation, and practical solutions**
-- 🌱 Always learning and exploring new tools, frameworks, and ideas
-- 🤝 Open to collaboration, knowledge sharing, and exciting projects
+```txt
+Building practical software, automation, and useful tools
+```
 
 ---
 
-## 🛠️ Tech Stack & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+## `> about_me`
+
+- ⚙️ Interested in **automation**, **tooling**, and **clean solutions**
+- 🚀 Always learning, experimenting, and improving
+- 🤝 Open to collaboration on interesting projects
 
 ---
 
-## 📬 Get in Touch
-- ✉️ Email: **michael.eitzinger@innio.com**
+## `> tech_stack`
+
+<p>
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=00ff9c" />
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=00d8ff" />
+  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=ff5f56" />
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=ffffff" />
+</p>
 
 ---
 
-<!---
-Much2/Much2 is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
---->
+## `> contact`
+
+- 📧 **michael.eitzinger@innio.com**
